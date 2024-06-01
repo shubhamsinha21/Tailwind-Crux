@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+
+
+    body {
+        @apply font-body
+    }
+
+    h1, h2, h3 {
+        @apply font-display text-gray-800 font-medium
+    }
+
+    .container {
+        @apply px-10 py-10 max-w-7xl mt-16 mx-auto lg:px-8 lg:mt-20
+    }
+    .gradient-hover-outer {
+        @apply shadow-md rounded-2xl p-[1px] cursor-pointer bg-slate-50 hover:bg-gradient-to-br from-red-200 via-purple-200 to-orange-200
+    }
+    .gradient-hover-inner {
+        @apply bg-white group-hover:bg-gradient-to-br from-red-50 via-purple-50 to-orange-50
+    }
+    .h2-style{
+        @apply leading-normal text-5xl sm:font-semibold max-w-2xl lg:max-w-xl
+    }
+}
