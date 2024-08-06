@@ -1,8 +1,18 @@
-# React + Vite
+## TODESKTOP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+###A Complete Mobile Responsive Landing Page with animations, toggle option, scroll-view, hover effect and many more.
 
-Currently, two official plugins are available:
+![todesktop](https://github.com/user-attachments/assets/12c9b4fa-dcdb-48f9-a07f-002e6f0e9539)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Demo - https://to-desktop-mauve.vercel.app/
+
+1. Technologies Used - 
+- React Js
+- Tailwind Css
+- Javascript
+
+2. Hosting - Vercel
+3. Code Editor - VS CODE
+
+### Feel free to connect me.
+
