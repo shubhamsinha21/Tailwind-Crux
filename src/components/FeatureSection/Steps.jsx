@@ -29,7 +29,7 @@ const Steps = () => {
 
       {/* right section of div */}
       <div className="pt-12 mx-auto ">
-        <img src="./assets/asset 66.svg" alt="feature" />
+        <img src="/images/asset 66.svg" alt="feature" />
       </div>
     </div>
   );

@@ -16,7 +16,7 @@ const BentoGrid = () => {
             <h3 className="text-2xl font-semibold shadow-sm">
               Native Notification
             </h3>
-            <img src="./assets/asset 28.png" alt="native" />
+            <img src="/images/asset 28.png" alt="native" />
           </div>
         </div>
 
@@ -29,7 +29,7 @@ const BentoGrid = () => {
               We’ll ensure the underlying browser is up to date and deliver
               performance improvements, security patches, & additional features.
             </p>
-            <img src="./assets/asset 29.png" alt="native" />
+            <img src="/images/asset 29.png" alt="native" />
           </div>
         </div>
 
@@ -38,7 +38,7 @@ const BentoGrid = () => {
             <h3 className="text-2xl font-semibold shadow-sm">
               Native Notification
             </h3>
-            <img src="./assets/asset 30.png" alt="native" />
+            <img src="/images/asset 30.png" alt="native" />
           </div>
         </div>
 
@@ -51,7 +51,7 @@ const BentoGrid = () => {
               We’ll ensure the underlying browser is up to date and deliver
               performance improvements, security patches, & additional features.
             </p>
-            <img src="./assets/asset 31.png" alt="native" />
+            <img src="/images/asset 31.png" alt="native" />
           </div>
         </div>
 
@@ -60,7 +60,7 @@ const BentoGrid = () => {
             <h3 className="text-2xl font-semibold shadow-sm">
               Native Notification
             </h3>
-            <img src="./assets/asset 28.png" alt="native" />
+            <img src="/images/asset 28.png" alt="native" />
           </div>
         </div>
 
@@ -73,7 +73,7 @@ const BentoGrid = () => {
               We’ll ensure the underlying browser is up to date and deliver
               performance improvements, security patches, & additional features.
             </p>
-            <img src="./assets/asset 31.png" alt="native" />
+            <img src="/images/asset 31.png" alt="native" />
           </div>
         </div>
       </div>
