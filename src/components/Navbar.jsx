@@ -12,7 +12,7 @@ const Navbar = () => {
     >
       <a href="#" id="brand" className="flex gap-1 items-center font-semibold">
         <img
-          src="./assets/asset 0.png"
+          src="/images/asset 0.png"
           className="object-cover max-w-10 max-h-10"
           alt="Logo"
         />
@@ -38,7 +38,7 @@ const Navbar = () => {
       </div>
 
       <button className="hidden md:flex gap-2 items-center border border-gray-300 px-6 py-2 rounded-md hover:bg-gray-100 hover:border-gray-500">
-        <img src="./assets/asset 1.svg" alt="elctron" />
+        <img src="/images/asset 1.svg" alt="elctron" />
         <span>Electron Developers</span>
         <i className="fa-solid fa-arrow-right"></i>
       </button>
@@ -61,7 +61,7 @@ const Navbar = () => {
               className="flex gap-1 items-center font-semibold"
             >
               <img
-                src="./assets/asset 0.png"
+                src="/images/asset 0.png"
                 className="object-cover max-w-10 max-h-10"
                 alt="Logo"
               />
@@ -112,7 +112,7 @@ const Navbar = () => {
 
             <div className="h-[1px] bg-gray-300"></div>
             <button className="mt-6 w-full flex gap-2 items-center px-6 py-3 rounded-md hover:bg-gray-200">
-              <img src="./assets/asset 1.svg" alt="elctron" />
+              <img src="/images/asset 1.svg" alt="elctron" />
               <span>Electron Developers</span>
             </button>
           </div>

@@ -7,10 +7,7 @@ const Line2 = () => {
         className="flex flex-col bg-white rounded-xl border border-gray-150 
         min-w-28 min-h-28 items-center cursor-pointer justify-center hover:-translate-y-0.5 hover:bg-gradient-to-br from-purple-300 to-orange-100 shadow-md"
       >
-        <img
-          src="./assets/asset 14.png"
-          className="w-12 h-12 md:w-16 md:h-16"
-        />
+        <img src="/images/asset 14.png" className="w-12 h-12 md:w-16 md:h-16" />
         <span className="text-[12px] md:text-[16px] font-semibold hover:shadow-sm text-gray-800">
           Unbounce
         </span>
@@ -20,10 +17,7 @@ const Line2 = () => {
         className="flex flex-col bg-white rounded-xl border border-gray-150 
         min-w-28 min-h-28 items-center cursor-pointer justify-center hover:-translate-y-0.5 hover:bg-gradient-to-br from-purple-300 to-orange-100 shadow-md"
       >
-        <img
-          src="./assets/asset 15.png"
-          className="w-12 h-12 md:w-16 md:h-16"
-        />
+        <img src="/images/asset 15.png" className="w-12 h-12 md:w-16 md:h-16" />
         <span className="text-[12px] md:text-[16px] font-semibold hover:shadow-sm text-gray-800">
           Unbounce
         </span>
@@ -33,10 +27,7 @@ const Line2 = () => {
         className="flex flex-col bg-white rounded-xl border border-gray-150 
         min-w-28 min-h-28 items-center cursor-pointer justify-center hover:-translate-y-0.5 hover:bg-gradient-to-br from-purple-300 to-orange-100 shadow-md"
       >
-        <img
-          src="./assets/asset 16.png"
-          className="w-12 h-12 md:w-16 md:h-16"
-        />
+        <img src="/images/asset 16.png" className="w-12 h-12 md:w-16 md:h-16" />
         <span className="text-[12px] md:text-[16px] font-semibold hover:shadow-sm text-gray-800">
           Unbounce
         </span>
@@ -46,10 +37,7 @@ const Line2 = () => {
         className="flex flex-col bg-white rounded-xl border border-gray-150 
         min-w-28 min-h-28 items-center cursor-pointer justify-center hover:-translate-y-0.5 hover:bg-gradient-to-br from-purple-300 to-orange-100 shadow-md"
       >
-        <img
-          src="./assets/asset 17.png"
-          className="w-12 h-12 md:w-16 md:h-16"
-        />
+        <img src="/images/asset 17.png" className="w-12 h-12 md:w-16 md:h-16" />
         <span className="text-[12px] md:text-[16px] font-semibold hover:shadow-sm text-gray-800">
           XimXom
         </span>
@@ -59,10 +47,7 @@ const Line2 = () => {
         className="flex flex-col bg-white rounded-xl border border-gray-150 
         min-w-28 min-h-28 items-center cursor-pointer justify-center hover:-translate-y-0.5 hover:bg-gradient-to-br from-purple-300 to-orange-100 shadow-md"
       >
-        <img
-          src="./assets/asset 18.png"
-          className="w-12 h-12 md:w-16 md:h-16"
-        />
+        <img src="/images/asset 18.png" className="w-12 h-12 md:w-16 md:h-16" />
         <span className="text-[12px] md:text-[16px] font-semibold hover:shadow-sm text-gray-800">
           Unbounce
         </span>
@@ -72,10 +57,7 @@ const Line2 = () => {
         className="flex flex-col bg-white rounded-xl border border-gray-150 
         min-w-28 min-h-28 items-center cursor-pointer justify-center hover:-translate-y-0.5 hover:bg-gradient-to-br from-purple-300 to-orange-100 shadow-md"
       >
-        <img
-          src="./assets/asset 19.png"
-          className="w-12 h-12 md:w-16 md:h-16"
-        />
+        <img src="/images/asset 19.png" className="w-12 h-12 md:w-16 md:h-16" />
         <span className="text-[12px] md:text-[16px] font-semibold hover:shadow-sm text-gray-800">
           Unbounce
         </span>
@@ -85,10 +67,7 @@ const Line2 = () => {
         className="flex flex-col bg-white rounded-xl border border-gray-150 
         min-w-28 min-h-28 items-center cursor-pointer justify-center hover:-translate-y-0.5 hover:bg-gradient-to-br from-purple-300 to-orange-100 shadow-md"
       >
-        <img
-          src="./assets/asset 20.png"
-          className="w-12 h-12 md:w-16 md:h-16"
-        />
+        <img src="/images/asset 20.png" className="w-12 h-12 md:w-16 md:h-16" />
         <span className="text-[12px] md:text-[16px] font-semibold hover:shadow-sm text-gray-800">
           Box2
         </span>
@@ -98,10 +77,7 @@ const Line2 = () => {
         className="flex flex-col bg-white rounded-xl border border-gray-150 
         min-w-28 min-h-28 items-center cursor-pointer justify-center hover:-translate-y-0.5 hover:bg-gradient-to-br from-purple-300 to-orange-100 shadow-md"
       >
-        <img
-          src="./assets/asset 21.png"
-          className="w-12 h-12 md:w-16 md:h-16"
-        />
+        <img src="/images/asset 21.png" className="w-12 h-12 md:w-16 md:h-16" />
         <span className="text-[12px] md:text-[16px] font-semibold hover:shadow-sm text-gray-800">
           Yelm
         </span>
@@ -111,10 +87,7 @@ const Line2 = () => {
         className="flex flex-col bg-white rounded-xl border border-gray-150 
         min-w-28 min-h-28 items-center cursor-pointer justify-center hover:-translate-y-0.5 hover:bg-gradient-to-br from-purple-300 to-orange-100 shadow-md"
       >
-        <img
-          src="./assets/asset 22.png"
-          className="w-12 h-12 md:w-16 md:h-16"
-        />
+        <img src="/images/asset 22.png" className="w-12 h-12 md:w-16 md:h-16" />
         <span className="text-[12px] md:text-[16px] font-semibold hover:shadow-sm text-gray-800">
           Micro
         </span>
@@ -124,10 +97,7 @@ const Line2 = () => {
         className="flex flex-col bg-white rounded-xl border border-gray-150 
         min-w-28 min-h-28 items-center cursor-pointer justify-center hover:-translate-y-0.5 hover:bg-gradient-to-br from-purple-300 to-orange-100 shadow-md"
       >
-        <img
-          src="./assets/asset 23.png"
-          className="w-12 h-12 md:w-16 md:h-16"
-        />
+        <img src="/images/asset 23.png" className="w-12 h-12 md:w-16 md:h-16" />
         <span className="text-[12px] md:text-[16px] font-semibold hover:shadow-sm text-gray-800">
           Unbounce
         </span>
@@ -137,10 +107,7 @@ const Line2 = () => {
         className="flex flex-col bg-white rounded-xl border border-gray-150 
         min-w-28 min-h-28 items-center cursor-pointer justify-center hover:-translate-y-0.5 hover:bg-gradient-to-br from-purple-300 to-orange-100 shadow-md"
       >
-        <img
-          src="./assets/asset 24.png"
-          className="w-12 h-12 md:w-16 md:h-16"
-        />
+        <img src="/images/asset 24.png" className="w-12 h-12 md:w-16 md:h-16" />
         <span className="text-[12px] md:text-[16px] font-semibold hover:shadow-sm text-gray-800">
           Macro
         </span>
