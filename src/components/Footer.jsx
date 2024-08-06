@@ -5,7 +5,7 @@ const Footer = () => {
     <div className="mx-20 max-sm:mx-10 lg:mx-8 px-20 rounded-lg flex flex-col gap-6 lg:flex-row justify-center lg:justify-between items-center bg-slate-100 border h-64  lg:h-32 mt-20 mb-[100px] ">
       <a href="#" id="brand" className="flex gap-1 items-center font-semibold">
         <img
-          src="./assets/asset 0.png"
+          src="/images/asset 0.png"
           className="object-cover max-w-12 max-h-12"
           alt="Logo"
         />
