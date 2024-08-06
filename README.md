@@ -1,6 +1,6 @@
 ## TODESKTOP
 
-###A Complete Mobile Responsive Landing Page with animations, toggle option, scroll-view, hover effect and many more.
+### A Complete Mobile Responsive Landing Page with animations, toggle option, scroll-view, hover effect and many more.
 
 ![todesktop](https://github.com/user-attachments/assets/12c9b4fa-dcdb-48f9-a07f-002e6f0e9539)
 
