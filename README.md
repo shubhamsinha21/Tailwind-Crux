@@ -2,7 +2,7 @@
 
 ### A Complete Mobile Responsive Landing Page with animations, toggle option, scroll-view, hover effect and many more.
 
-![todesktop](https://github.com/user-attachments/assets/12c9b4fa-dcdb-48f9-a07f-002e6f0e9539)
+![todesktop](https://github.com/user-attachments/assets/42338cfb-0d00-40b8-80e7-a20a9c296cb2)
 
 Demo - https://to-desktop-mauve.vercel.app/
 
